@@ -60,6 +60,8 @@ Para desplegar en GitHub Pages:
 npm run deploy
 ```
 
+El despliegue se realiza automáticamente mediante GitHub Actions cuando se realizan cambios en la rama principal.
+
 ## Estructura del proyecto
 
 - `/src`: Código fuente de la aplicación Angular
